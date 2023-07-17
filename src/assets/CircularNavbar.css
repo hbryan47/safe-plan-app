@@ -44,10 +44,10 @@ body {
     width: 105px;
     height: 105px;
     background: #15797D;
-    /* background: #967C4B; */
-    /* background-image: url("img/RoseLicensedAdobeStock_479715727.jpeg");
+    background: #967C4B;
+    background-image: url("../img/RoseLicensedAdobeStock_479715727.jpeg");
     background-size: 215px;
-    background-position: center;  */
+    background-position: center; 
     justify-content: center;
     align-items: center;
     z-index: 10000;
