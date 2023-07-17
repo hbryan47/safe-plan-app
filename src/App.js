@@ -1,21 +1,22 @@
 import React from 'react';
-import "./App.css";
-import Login from './Heather/Login';
+// import "./App.css";
+import "./assets/CircularNavbar.css";
+// import Login from './Heather/Login';
+// import Notes from "./Heather/Notes";
+// import Resources from "./Heather/Resources";
 import Navbar from './Heather/Navbar';
-import Notes from "./Heather/Notes";
-import Resources from "./Heather/Resources";
-// import SafeExit from "./Heather/SafeExit";
+;// import SafeExit from "./Heather/SafeExit";
 
 
 const App = () => {
     return (
         <div>
             <Navbar/>
-            <h1>Welcome to My App</h1>
-            <Login/>
-            <Notes/>
-            <Resources/>
-            {/* {* {/ <SafeExit */} 
+            <h1>Your SafePlan</h1>
+            {/* <Login/> */}
+            {/* <Notes/> */}
+            {/* <Resources/> */}
+            {/* <SafeExit/>  */}
         </div>
     );
 };
